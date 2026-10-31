@@ -9,7 +9,7 @@ replicaCount: 1
 image:
   repository: ajith7550/habit-tracker
   pullPolicy: IfNotPresent
-  tag: "7"
+  tag: "3-3161ea5"
 
 
 
